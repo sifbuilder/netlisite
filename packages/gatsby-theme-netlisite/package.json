@@ -1,0 +1,9 @@
+{
+  "name": "gatsby-theme-netlisite",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "description": "sif generated themed starter",
+  "author": "sifbuilder"
+}

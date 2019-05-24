@@ -1,0 +1,14 @@
+{
+  "name": "netlisite",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:sifbuilder/netlisite.git",
+  "author": "sifbuilder",
+  "license": "MIT",
+  "private": true,
+  "description": "sif generated themed ent",
+  "spaces": [
+    "starter",
+    "packages/*"
+  ]
+}

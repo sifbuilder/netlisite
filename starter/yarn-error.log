@@ -1,0 +1,36 @@
+Arguments: 
+  C:\e\e\node.exe C:\e\h\AppData\npm\node_modules\yarn\bin\yarn.js init -y
+
+PATH: 
+  C:\e\c\eosites\netlisite\starter\node_modules\.bin;C:\e\c\eosites\netlisite\node_modules\.bin;C:\e\c\eosites\node_modules\.bin;C:\e\c\node_modules\.bin;C:\e\node_modules\.bin;C:\node_modules\.bin;C:\e\e;C:\e\h\AppData\npm;C:\e\e;E:\Dropbox\dBox\e\p\PDF-XChangeViewerPortable;E:\Dropbox\dBox\e\p\PDFTKBuilderPortable;E:\Dropbox\dBox\e\p\PDFEditPortable;E:\Dropbox\dBox\e\p\VSCode-win32-x64-1.33.0-insider;E:\Dropbox\dBox\e\p\winwget;E:\Dropbox\dBox\e\p\PortableGit-2.8.0-64-bit\mingw64\bin;E:\Dropbox\dBox\e\p\PortableGit-2.8.0-64-bit\mingw64\libexec\git-core;E:\Dropbox\dBox\e\p\PortableGit-2.8.0-64-bit\usr\bin;E:\Dropbox\dBox\e\p\PortableGit-2.8.0-64-bit\cmd;E:\Dropbox\dBox\e\p\PortableGit-2.8.0-64-bit;E:\Dropbox\dBox\e\p\wintools;E:\Dropbox\dBox\e\p\webtorrent\bin;E:\Dropbox\dBox\e\p\VLCPortable;E:\Dropbox\dBox\e\p\UltraDefragPortable;E:\Dropbox\dBox\e\p\SumatraPDF;E:\Dropbox\dBox\e\p\npp;E:\Dropbox\dBox\e\p\MediaInfoPortable;E:\Dropbox\dBox\e\p\McAfeeStingerPortable;E:\Dropbox\dBox\e\p\make-3.81-bin\bin;E:\Dropbox\dBox\e\p\libiconv-1.9.2-1-bin\bin;E:\Dropbox\dBox\e\p\libintl-0.14.4-bin\bin;E:\Dropbox\dBox\e\p\LibreOfficePortable;E:\Dropbox\dBox\e\p\KeePass-2.15;E:\Dropbox\dBox\e\p\inkscape;E:\Dropbox\dBox\e\p\GIMPPortable;E:\Dropbox\dBox\e\p\GoogleChromePortable;E:\Dropbox\dBox\e\p\FreeFileSyncPortable_6.2;E:\Dropbox\dBox\e\p\ffmpeg\bin;E:\Dropbox\dBox\e\p\BleachBit-Portable;E:\Dropbox\dBox\e\p\AtomPortable;C:\e\s;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Amazon\AWSCLI\bin\;C:\Users\esteb\AppData\Local\Microsoft\WindowsApps
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\e\c\eosites\netlisite\starter\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\e\h\AppData\npm\node_modules\yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\e\h\AppData\npm\node_modules\yarn\lib\cli.js:304:30)
+      at C:\e\h\AppData\npm\node_modules\yarn\lib\cli.js:315:13
+
+npm manifest: 
+  {
+    "name": "starter",
+    "version": "0.0.1",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
